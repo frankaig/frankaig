@@ -33,7 +33,7 @@ git push origin main
 | Lenguaje | Nivel |
 |----------|-------|
 | ssv     | Básico |
-| redes   | Intermedio |
+| redes   | Básico |
 
 Checkboxes
 - [ ] Escribir readme
@@ -45,4 +45,5 @@ Checkboxes
 
 <a href='https://youtu.be/XiTE_o7mHgI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XiTE_o7mHgI/mqdefault.jpg' alt='¿Las VPN son una estafa?' />
+  <img width='1000px' src='https://github.com/Ariadnaguerramar/ariadnaguerramar/blob/main/Captura%20de%20pantalla%202025-05-23%20165536.png' />
 </a>
